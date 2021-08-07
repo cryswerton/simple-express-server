@@ -1,0 +1,6 @@
+On Linux, use ifconfig to get the inet number. After that, to access the static HTML page, use:
+http://inet-number:5000
+
+Don't forget to use the npm i command to install all dependencies.
+
+* if the last inet number don't work out the first one will do.
